@@ -1,0 +1,2 @@
+# privacy
+Sample privacy page
